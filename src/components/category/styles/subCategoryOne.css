@@ -1,0 +1,30 @@
+.styleForSubCategory {
+  width: 200px;
+  height: 30px;
+  border-width: 1px;
+  border-color: #dcdcdc;
+  border-style: solid;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.styleForSubCategoryOne {
+  width: 200px;
+  height: 30px;
+  border-width: 1px;
+  border-color: #dcdcdc;
+  border-style: solid;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: blue;
+  color: white;
+}
+
+.spaceBLockOne {
+  padding: 0 5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
